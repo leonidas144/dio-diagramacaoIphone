@@ -1,18 +1,11 @@
-## Getting Started
+## Desafio Dio Diagramação Iphone
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Projeto referente ao desafio do Bootcamp Santander 2024 - Backend com Java, o qual solicitava que, com base no vídeo de lançamento do iPhone em 2007, elabora-se em uma ferramenta de UML. A diagramação das classes e interfaces com a proposta de representar os papéis do iPhone de: Reprodutor Musical, Aparelho Telefônico e Navegador na Internet. Em seguida cria-se as classes e interfaces no formato de arquivos .java.
 
-## Folder Structure
 
-The workspace contains two folders by default, where:
+## Diagramação
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Elaborado na ferramenta LucidChart a diagramação referente ao exercício proposto.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+![Diagrama em branco](https://github.com/leonidas144/dio-diagramacaoIphone/assets/91976743/ef900409-8862-46dc-ac87-56971cdab20d)
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
